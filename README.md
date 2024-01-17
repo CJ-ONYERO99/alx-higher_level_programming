@@ -1,2 +1,4 @@
-# alx-higher_level_programming
-#0x00. Python - Hello, World
+#Higher-level programming
+
+#High level programming projects based in Python language:
+This repository contains programs written for the higher-level programming at ALX SE School
